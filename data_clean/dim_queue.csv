@@ -1,0 +1,5 @@
+queue,base_call_minutes,sla_seconds
+Member Services,7,60
+Billing Support,9,90
+Claims Support,11,120
+Technical Support,13,180
